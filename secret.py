@@ -29,4 +29,4 @@ user3 = {
 }
 
 
-accounts = [ammar]
+accounts = [user1,user2,user3]
