@@ -1,7 +1,7 @@
 # twitter-scraping
 A bot that extracts and manipulates data from Twitter accounts.
 ```
-   _                   .-=-.          .-==-.
+    _                   .-=-.          .-==-.
    { }      __        .' O o '.       /  -<' )
    { }    .' O'.     / o .-. O \     /  .--v`
    { }   / .-. o\   /O  /   \  o\   /O /
